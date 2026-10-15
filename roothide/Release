@@ -1,0 +1,10 @@
+Origin: Mocos Repo
+Label: Mocos Repo (roothide)
+Suite: roothide
+Codename: roothide
+Architectures: iphoneos-arm64e
+Date: Thu, 15 Oct 2026 03:16:37 GMT
+Description: roothide flat APT repository
+SHA256:
+ 88a9e1d168c3bc29d2c1fbd9e4dbbe092eac45b19d10241f68b9cf4694a13562 479 Packages
+ 87bc26aacc07e742003866ffa46c7324466cd53c938c912e59fc025cab360b72 381 Packages.gz

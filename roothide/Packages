@@ -1,0 +1,14 @@
+Package: local.minis.wechatfloat
+Name: 便捷聊天浮窗
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Mocos
+Author: Mocos
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+Description: Independent WeChat floating UI, native RootHide package layout.
+ For WeChat 8.0.54. ARM64 payload; RootHide package architecture.
+Filename: debs/wechat-float_1.0.0_roothide-native.deb
+Size: 40116
+SHA256: 3b4b40e5611e58b7550853f3f715f60211b70b9a570f2f3896d1fb8c9b7075e5
+
