@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Index existing .deb files; never modify packages. Requires dpkg-deb."""
 import argparse
-import .utils
+import email.utils
 import gzip
 import hashlib
 import os
@@ -78,7 +78,7 @@ def build(root, variant, arch, stage, label):
     (out / "Packages.gz").write_bytes(gzip.compress(data, mtime=0))
     release = [f"Origin: {label}", f"Label: {label} ({variant})",
                f"Suite: {variant}", f"Codename: {variant}",
-               f"Architectures: {arch}", "Components: main", f"Date: {.utils.formatdate(usegmt=True)}",
+               f"Architectures: {arch}", "Components: main", f"Date: {email.utils.formatdate(usegmt=True)}",
                f"Description: {variant} flat APT repository", "SHA256:"]
     for name in ("Packages", "Packages.gz"):
         p = out / name
