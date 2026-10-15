@@ -3,7 +3,8 @@ Label: Mocos Repo (rootless)
 Suite: rootless
 Codename: rootless
 Architectures: iphoneos-arm64
-Date: Thu, 15 Oct 2026 03:16:37 GMT
+Components: main
+Date: Thu, 15 Oct 2026 08:51:20 GMT
 Description: rootless flat APT repository
 SHA256:
  037da73ce9f95420b78b292300235fff1a57289c816bb23b30733ed0fc2aef91 496 Packages
