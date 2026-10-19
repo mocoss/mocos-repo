@@ -1,0 +1,117 @@
+[
+  {
+    "file": "rootless/debs/wechat-float_0.1.0_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "3782440fcbd575ac8c071bdcca0bf275848f6a24e5937dfaebaf82c2732b549c"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.0_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "71594acce29742b558ddc03d432ef1f1759dfd0afb50288b3df0746ffd1be590"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.1_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "210d522ef1e87c1a86f0f633a1c71532f3133c7ae8ccd6297fbe7c5264404a10"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.1_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "f7b5ba1e21b8fa5a9b5c6821226f66ecb3b394ae496893f90c2daa55941a7172"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.2_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "3ea0fe131e57b56832057de25e4004133ca87dde24b55dff78e19b3f86af151e"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.2_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "a717612d520f81ea1ef3bb561559f27c8194b344b15d9aecf84fd7a0ea1edeac"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.3_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "25babba79e2543e406489d798d3d72e82443c5307d7451b365523ddcc35606f3"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.3_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "c8bb2f68f187fd5e8f652ce030d1930e9c75d7c6a0c5e3e83b74947d59c76a68"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.4_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "8de0a7762a60474f6b609089147f6c2f17e08bd08392d1efcd2290ebb9fe1c50"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.4_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "6393b5437fe91031812102a779f21f2255cb583b76961ebc914ab75595dc5c7b"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.5_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "3fd4d5df12e1b607c2a7751acfded47238c57ea41095be828d8a7372c006da91"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.5_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "7427faee7d255d5e7b7d97796363d1a67ddf3fdfc0a214519aa4257eba8c229b"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.6_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "abe756deb81f9eddf15beb0ce0a953cb705c15000d3ac46615689f3c3bd1bfb7"
+  },
+  {
+    "file": "legacy-rootful-convert/debs/wechat-float_0.1.6_rootful-convert.deb",
+    "architecture": "iphoneos-arm",
+    "sha256": "0aa1e9bec1333a4b9c7ff6374b4288f13d185d67f60c33f7aa3b8c5149b076b6"
+  },
+  {
+    "file": "roothide/debs/wechat-float_0.1.6_roothide-native.deb",
+    "architecture": "iphoneos-arm64e",
+    "sha256": "cf666c61fa6c05ae87104dea8f39fda1e7db2ad37740762cae284b9ca0df9dba"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.7_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "b076f52e9468bb188fd80bf94bcf56fa8801dbdf88d51af06b183d863f2876ff"
+  },
+  {
+    "file": "roothide/debs/wechat-float_0.1.7_roothide-native.deb",
+    "architecture": "iphoneos-arm64e",
+    "sha256": "ed190d412eddc4810c4682ee2bc8b185550b37d5203152a046fc8aea1f35f06d"
+  },
+  {
+    "file": "rootless/debs/wechat-float_0.1.8_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "d1eaa51c7c45409f8cdaa8fcea3d60ff7be2923e5bd6d1365ca9f611bd5e563d"
+  },
+  {
+    "file": "roothide/debs/wechat-float_0.1.8_roothide-native.deb",
+    "architecture": "iphoneos-arm64e",
+    "sha256": "71768a65b38805de30e1746d40c872f4e12b695909edc999a1d19a5491fc743f"
+  },
+  {
+    "file": "rootless/debs/wechat-float_1.0.0_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "175608102055c2eee597ea03ffd66ae20538157eeac05ab2ec6f847b8a4d0c01"
+  },
+  {
+    "file": "roothide/debs/wechat-float_1.0.0_roothide-native.deb",
+    "architecture": "iphoneos-arm64e",
+    "sha256": "3b4b40e5611e58b7550853f3f715f60211b70b9a570f2f3896d1fb8c9b7075e5"
+  },
+  {
+    "file": "rootless/debs/wechat-float_1.0.1_dopamine-rootless.deb",
+    "architecture": "iphoneos-arm64",
+    "sha256": "b281c1438cc21f1449802203c867419a0c2551bf36d6fe4b2d2846a2a9acedcd"
+  },
+  {
+    "file": "roothide/debs/wechat-float_1.0.1_roothide-native.deb",
+    "architecture": "iphoneos-arm64e",
+    "sha256": "0533762e58c70e8afa2adaf061b39d1a8f83abf6b78038faf2c949510ceef01d"
+  }
+]
