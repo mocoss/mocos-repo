@@ -8,6 +8,7 @@ Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate
 Description: Independent WeChat floating chat, avatars and message reminders.
  For WeChat 8.0.54. Private API compatibility depends on the device environment.
+ Hold the modify button to downgrade.
 Filename: debs/wechat-float_1.0.0_dopamine-rootless.deb
 Size: 40150
 SHA256: 175608102055c2eee597ea03ffd66ae20538157eeac05ab2ec6f847b8a4d0c01
